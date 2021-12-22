@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "507172223180",
+    "project_id": "bmi-project-77a92",
+    "storage_bucket": "bmi-project-77a92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507172223180:android:ac78b6de3bbbf8c6e5aa69",
+        "android_client_info": {
+          "package_name": "com.rajab.bmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507172223180-3kt7pojrkk605qnk8hnf4i01m6mh9n2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIvhW2O-1vOCy8FnJt-rMecx-ycecBKIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507172223180-3kt7pojrkk605qnk8hnf4i01m6mh9n2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507172223180:android:993d641ea95fe993e5aa69",
+        "android_client_info": {
+          "package_name": "com.rajab.mybmiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507172223180-3kt7pojrkk605qnk8hnf4i01m6mh9n2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIvhW2O-1vOCy8FnJt-rMecx-ycecBKIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507172223180-3kt7pojrkk605qnk8hnf4i01m6mh9n2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
